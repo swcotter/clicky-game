@@ -14,7 +14,7 @@ function App() {
         <Card
               id="1"
               name="Sam"
-              image="./img/Test.jpg"
+              image="./img/bob.png"
               key="{card.id}"
               isPicked="false"
             />
@@ -22,7 +22,7 @@ function App() {
 <Card
               id="2"
               name="Brandon"
-              image="./img/brandon.jpg"
+              image="./img/gene.png"
               key="{card.id}"
               isPicked="false"
             />
